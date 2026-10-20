@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aeshkevari
-- 👀 I’m interested in digital signal processing.
-- 🌱 I’m currently a PhD candidate on Electrical Engineering.
+- 👀 I’m interested in Digital Signal Processing.
+- 🌱 I have a PhD degree in Electrical Engineering (Communication Systems).
 - 💞️ I’m looking to collaborate on making a better world!
 - 📫 How to reach me: a.eshkevari@gmail.com
 
